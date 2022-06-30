@@ -1,0 +1,62 @@
+#ninja {
+    background-color: skyblue;
+    width: 750px;
+    height:200px ;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#fun {
+    background-color: rgb(241, 202, 227);
+    width: 750px;
+    height:200px ;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#happy {
+    background-color: white;
+    width: 750px;
+    height:200px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.image1 {
+height: 200px;
+margin: 30px;
+}
+.image2 {
+height: 200px;
+margin: 30px;
+}
+.image3 {
+height: 200px;
+margin: 30px;
+}
+.image4 {
+height: 200px;
+margin: 30px;
+}
+.image5 {
+height: 200px;
+margin: 30px;
+}
+.image6 {
+height: 200px;
+margin: 30px;
+}
+.image7 {
+height: 200px;
+margin: 30px;
+}
+.image8 {
+height: 200px;
+margin: 30px;
+}

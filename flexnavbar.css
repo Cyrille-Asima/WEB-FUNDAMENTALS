@@ -1,0 +1,33 @@
+.nav {
+    background-color: rgb(52, 50, 50);
+    color: white;
+    height: 90;
+    width: 900px;
+    font-family: serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    
+}
+.nav-title {
+    margin: 20px;
+    
+}
+.nav-links {
+    width: 50%;
+    display: flex;
+    align-items:center;
+    justify-content:space-around;
+}
+.btn {
+    background-color: rgb(41, 205, 217);
+    color: white;
+    box-shadow: 5px 5px black;
+    border: none;
+    
+}
+.nav a {
+    color: white;
+    text-decoration: none;
+}

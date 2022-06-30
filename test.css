@@ -1,0 +1,13 @@
+.row {
+    display: flex;
+}
+.topleft {
+    background-color: aqua;
+    flex: 2;
+    margin: 15px;
+}
+.topright {
+    background-color: aquamarine;
+    flex: 3;
+    margin: 15px;
+}

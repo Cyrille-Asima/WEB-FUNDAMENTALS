@@ -1,0 +1,20 @@
+h1 {
+    background-color: black;
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: xxx-large;
+}
+h2 {
+    background-color: purple;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-size: xx-large;
+    font-style: italic; 
+}
+h3 {
+    background-color:rgb(173, 179, 234) ;
+    text-decoration: underline;
+    font-weight: lighter;
+    text-align: right;
+}

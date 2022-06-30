@@ -1,0 +1,36 @@
+.row {
+    display: flex;
+    width: 1000px;
+}
+.col {
+    display: flex;
+    width: 25%;
+    height: 50px;
+    align-items: center;
+    justify-content:space-evenly;
+    margin: 25px;
+    background-color: rgb(40, 127, 143);
+    color: white;
+}
+.col-2 {
+    background-color: rgb(40, 127, 143);
+    width: 75%;
+    height: 50px;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content:space-evenly;
+    margin: 25px;
+    flex: 2;
+}
+.col-3 {
+    display: flex;
+    width: 25%;
+    height: 50px;
+    align-items: center;
+    justify-content:space-evenly;
+    margin: 25px;
+    background-color: rgb(40, 127, 143);
+    color: white; 
+    flex: 3;
+}

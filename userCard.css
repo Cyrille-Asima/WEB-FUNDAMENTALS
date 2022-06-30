@@ -1,0 +1,40 @@
+body {
+    background-color:#f3f3f3 ;
+}
+#main {
+    width: 850px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+.card {
+    background-color: whitesmoke ;
+    border: 2px solid rgb(227, 223, 223);
+    width: 90%;
+    margin-bottom: 15px;
+
+}
+.header {
+    background-color: rgb(54, 196, 196);
+    height: 120PX;
+}
+.one {
+    background-color: white;
+    border-radius: 50%;
+    border: 5px solid white;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.body {
+    padding: 30px;
+}
+.icon {
+    height: 20px;
+    
+}
+.body h1, .body h2, .body p {
+    margin: 20px 0px;
+}
